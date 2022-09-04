@@ -19,6 +19,7 @@ In this project, I learned how to...
     - `git commit .`
     - `git push origin main`
     - `git status`
+    - `git log`
 
 I also learned how to...
 - create new directories using the command line `mkdir examplefolder`
@@ -26,7 +27,8 @@ I also learned how to...
 - insert an `img` with `alt` text on an HTML file
 - create unordered and ordered lists for recipe ingredients and steps
 - create an `index.html` page housing links to 3 recipes
-- view my project on the web using `your-github-username.github.io/your-github-repo-name`
+- deploy/view my project on the web using `your-github-username.github.io/your-github-repo-name`
+    - repo *Settings* -> *Pages* -> change *Branch* to *main* -> *Save*
 
 ### Credits
 ---
