@@ -8,7 +8,6 @@
 | **Languages** | HTML |
 
 ## Welcome to my first project! 
----
 ### In this project, I learned how to...
 - create a new repo
 - clone the repo onto my local machine via `git clone`
@@ -31,7 +30,6 @@
     - repo *Settings* -> *Pages* -> change *Branch* to *main* -> *Save*
 
 ## Credits
----
 [The Odin Project] (https://www.theodinproject.com/lessons/foundations-recipes)
 
 [Hummingbird High, Cassava Cake] (https://www.hummingbirdhigh.com/2020/07/cassava-cake.html)
