@@ -7,9 +7,9 @@
 | **Tools** | VSCode, git/terminal |
 | **Languages** | HTML |
 
-Welcome to my first project! 
-
-In this project, I learned how to...
+## Welcome to my first project! 
+---
+### In this project, I learned how to...
 - create a new repo
 - clone the repo onto my local machine via `git clone`
 - write a `README.md`
@@ -21,7 +21,7 @@ In this project, I learned how to...
     - `git status`
     - `git log`
 
-I also learned how to...
+### I also learned how to...
 - create new directories using the command line `mkdir examplefolder`
 - create new files using the command line `touch examplefile.ext`
 - insert an `img` with `alt` text on an HTML file
@@ -30,7 +30,7 @@ I also learned how to...
 - deploy/view my project on the web using `your-github-username.github.io/your-github-repo-name`
     - repo *Settings* -> *Pages* -> change *Branch* to *main* -> *Save*
 
-### Credits
+## Credits
 ---
 [The Odin Project] (https://www.theodinproject.com/lessons/foundations-recipes)
 
