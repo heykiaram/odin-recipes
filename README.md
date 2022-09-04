@@ -6,7 +6,7 @@
 | **Purpose** | Create an HTML file with multiple links by making my own recipe site. |
 | **Tools** | VSCode, git/terminal |
 | **Languages** | HTML |
-| **Finished Product** | https://www.heykiaram.github.io/odin-recipes |
+| **Finished Product** | https://heykiaram.github.io/odin-recipes |
 
 ## Welcome to my first project! 
 ### In this project, I learned how to...
