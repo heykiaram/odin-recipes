@@ -31,13 +31,13 @@
     - repo *Settings* -> *Pages* -> change *Branch* to *main* -> *Save*
 
 ## Credits
-[The Odin Project] (https://www.theodinproject.com/lessons/foundations-recipes)
+[The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes)
 
-[Hummingbird High, Cassava Cake] (https://www.hummingbirdhigh.com/2020/07/cassava-cake.html)
+[Hummingbird High, Cassava Cake](https://www.hummingbirdhigh.com/2020/07/cassava-cake.html)
 
-[Hummingbird High, Filipino Ensaymada] (https://www.hummingbirdhigh.com/2019/03/filipino-ensaymada.html)
+[Hummingbird High, Filipino Ensaymada](https://www.hummingbirdhigh.com/2019/03/filipino-ensaymada.html)
 
-[Hummingbird High, Leche Flan] (https://www.hummingbirdhigh.com/2016/02/leche-flan.html)
+[Hummingbird High, Leche Flan](https://www.hummingbirdhigh.com/2016/02/leche-flan.html)
 
 
 
